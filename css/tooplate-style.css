@@ -13,6 +13,10 @@ body {
   padding-top: 70px;
 }
 
+.collection img {
+  width: 100%;
+}
+
 .full-screen {
   padding: 8rem 0;
 }
